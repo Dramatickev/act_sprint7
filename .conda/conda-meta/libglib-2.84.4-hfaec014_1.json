@@ -1,0 +1,321 @@
+{
+  "name": "libglib",
+  "version": "2.84.4",
+  "build": "hfaec014_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libglib-2.84.4-hfaec014_1.conda",
+  "md5": "c1bd4d5ddb209c637d5f49df44901ad4",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libglib-2.84.4-hfaec014_1.conda",
+  "sha256": "4846bedbe305362cdd989b85a2b521a0e3bea9e1ae058b05184f41143b789796",
+  "depends": [
+    "libffi >=3.4,<4.0a0",
+    "libiconv >=1.16,<2.0a0",
+    "pcre2 >=10.46,<10.47.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133",
+    "zlib >=1.2.13,<2.0a0"
+  ],
+  "constrains": [],
+  "license": "LGPL-2.1-or-later",
+  "timestamp": 1768491905000,
+  "size": 2479366,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\cib3r\\anaconda3\\pkgs\\libglib-2.84.4-hfaec014_1.conda",
+  "extracted_package_dir": "C:\\Users\\cib3r\\anaconda3\\pkgs\\libglib-2.84.4-hfaec014_1",
+  "files": [
+    "Library/bin/gi-compile-repository.exe",
+    "Library/bin/gi-decompile-typelib.exe",
+    "Library/bin/gi-inspect-typelib.exe",
+    "Library/bin/gio-2.0-0.dll",
+    "Library/bin/girepository-2.0-0.dll",
+    "Library/bin/glib-2.0-0.dll",
+    "Library/bin/gmodule-2.0-0.dll",
+    "Library/bin/gobject-2.0-0.dll",
+    "Library/bin/gspawn-win64-helper-console.exe",
+    "Library/bin/gspawn-win64-helper.exe",
+    "Library/bin/gthread-2.0-0.dll",
+    "Library/bin/intl-8.dll",
+    "Library/include/libintl.h",
+    "Library/lib/gio-2.0.lib",
+    "Library/lib/girepository-1.0/GIRepository-3.0.typelib",
+    "Library/lib/girepository-1.0/GLib-2.0.typelib",
+    "Library/lib/girepository-1.0/GLibWin32-2.0.typelib",
+    "Library/lib/girepository-1.0/GModule-2.0.typelib",
+    "Library/lib/girepository-1.0/GObject-2.0.typelib",
+    "Library/lib/girepository-1.0/Gio-2.0.typelib",
+    "Library/lib/girepository-1.0/GioWin32-2.0.typelib",
+    "Library/lib/girepository-2.0.lib",
+    "Library/lib/glib-2.0.lib",
+    "Library/lib/gmodule-2.0.lib",
+    "Library/lib/gobject-2.0.lib",
+    "Library/lib/gthread-2.0.lib",
+    "Library/lib/intl.lib",
+    "Library/lib/pkgconfig/girepository-2.0.pc",
+    "Library/share/gir-1.0/GIRepository-3.0.gir",
+    "Library/share/gir-1.0/GLib-2.0.gir",
+    "Library/share/gir-1.0/GLibWin32-2.0.gir",
+    "Library/share/gir-1.0/GModule-2.0.gir",
+    "Library/share/gir-1.0/GObject-2.0.gir",
+    "Library/share/gir-1.0/Gio-2.0.gir",
+    "Library/share/gir-1.0/GioWin32-2.0.gir"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/gi-compile-repository.exe",
+        "path_type": "hardlink",
+        "sha256": "302e46747d139c22bf7ba9fb4cad8a06fd9f671fd0ce83e4944ecc7d6b97011f",
+        "size_in_bytes": 166728,
+        "sha256_in_prefix": "302e46747d139c22bf7ba9fb4cad8a06fd9f671fd0ce83e4944ecc7d6b97011f"
+      },
+      {
+        "_path": "Library/bin/gi-decompile-typelib.exe",
+        "path_type": "hardlink",
+        "sha256": "3de8ac2a8af0d4a34e88157cd6f80088c2b026a1fddbda055a1134984d131b76",
+        "size_in_bytes": 48968,
+        "sha256_in_prefix": "3de8ac2a8af0d4a34e88157cd6f80088c2b026a1fddbda055a1134984d131b76"
+      },
+      {
+        "_path": "Library/bin/gi-inspect-typelib.exe",
+        "path_type": "hardlink",
+        "sha256": "bdd69aed8ffed69db4329736cdd428145d11734a243ca0549bd214eef1cd0038",
+        "size_in_bytes": 24392,
+        "sha256_in_prefix": "bdd69aed8ffed69db4329736cdd428145d11734a243ca0549bd214eef1cd0038"
+      },
+      {
+        "_path": "Library/bin/gio-2.0-0.dll",
+        "path_type": "hardlink",
+        "sha256": "fe238b7630d3a97855611e321b192e3965e641c1b60c08baf434b4d191e1f08b",
+        "size_in_bytes": 1660232,
+        "sha256_in_prefix": "fe238b7630d3a97855611e321b192e3965e641c1b60c08baf434b4d191e1f08b"
+      },
+      {
+        "_path": "Library/bin/girepository-2.0-0.dll",
+        "path_type": "hardlink",
+        "sha256": "6c6bb8f9b8e85d468d1c9f9422477db698dbb7f39bc4c58b91deb9c1d04c9344",
+        "size_in_bytes": 148296,
+        "sha256_in_prefix": "6c6bb8f9b8e85d468d1c9f9422477db698dbb7f39bc4c58b91deb9c1d04c9344"
+      },
+      {
+        "_path": "Library/bin/glib-2.0-0.dll",
+        "path_type": "hardlink",
+        "sha256": "ee006174063c8f22f6e6bc2eff772e0d4f75c6fd48e662ae3c53330b6c5fab88",
+        "size_in_bytes": 1354056,
+        "sha256_in_prefix": "ee006174063c8f22f6e6bc2eff772e0d4f75c6fd48e662ae3c53330b6c5fab88"
+      },
+      {
+        "_path": "Library/bin/gmodule-2.0-0.dll",
+        "path_type": "hardlink",
+        "sha256": "3efdbe0066f0f34d3458315d1f15586d397010a52782ea4d7c66dc007668677e",
+        "size_in_bytes": 31048,
+        "sha256_in_prefix": "3efdbe0066f0f34d3458315d1f15586d397010a52782ea4d7c66dc007668677e"
+      },
+      {
+        "_path": "Library/bin/gobject-2.0-0.dll",
+        "path_type": "hardlink",
+        "sha256": "7af74f3ff33f1b704913b3a2852e796fd8b2f7dcbff45c0e5c272f20fdd5ab7b",
+        "size_in_bytes": 337224,
+        "sha256_in_prefix": "7af74f3ff33f1b704913b3a2852e796fd8b2f7dcbff45c0e5c272f20fdd5ab7b"
+      },
+      {
+        "_path": "Library/bin/gspawn-win64-helper-console.exe",
+        "path_type": "hardlink",
+        "sha256": "c014f981f83be4bdb53cef3db492a07e8e3409e5beaddc5f7ef86391b71ab698",
+        "size_in_bytes": 25416,
+        "sha256_in_prefix": "c014f981f83be4bdb53cef3db492a07e8e3409e5beaddc5f7ef86391b71ab698"
+      },
+      {
+        "_path": "Library/bin/gspawn-win64-helper.exe",
+        "path_type": "hardlink",
+        "sha256": "fb16e558b198538e0f9ce761a36efadfa1ff8ce0ee145e48a45b5a6295e49e9e",
+        "size_in_bytes": 25416,
+        "sha256_in_prefix": "fb16e558b198538e0f9ce761a36efadfa1ff8ce0ee145e48a45b5a6295e49e9e"
+      },
+      {
+        "_path": "Library/bin/gthread-2.0-0.dll",
+        "path_type": "hardlink",
+        "sha256": "17943fbb8c6a23bfd4108c99fb565cff1aa676a9b790e24c86cae1e7ae88e9b0",
+        "size_in_bytes": 22856,
+        "sha256_in_prefix": "17943fbb8c6a23bfd4108c99fb565cff1aa676a9b790e24c86cae1e7ae88e9b0"
+      },
+      {
+        "_path": "Library/bin/intl-8.dll",
+        "path_type": "hardlink",
+        "sha256": "fd4f5676a80c62cd100fb3424e9e9531f1f445af9b6bcf147085406cf1dd4df0",
+        "size_in_bytes": 22344,
+        "sha256_in_prefix": "fd4f5676a80c62cd100fb3424e9e9531f1f445af9b6bcf147085406cf1dd4df0"
+      },
+      {
+        "_path": "Library/include/libintl.h",
+        "path_type": "hardlink",
+        "sha256": "b0ce336ad3324c812cf231e20a363b55091274424d60bd29a2f6514929e0a5fc",
+        "size_in_bytes": 3962,
+        "sha256_in_prefix": "b0ce336ad3324c812cf231e20a363b55091274424d60bd29a2f6514929e0a5fc"
+      },
+      {
+        "_path": "Library/lib/gio-2.0.lib",
+        "path_type": "hardlink",
+        "sha256": "c59a16c556bb1ff7d933826f4a9ff34b2c3bc317d11c8236e315e1b8bc547e74",
+        "size_in_bytes": 552414,
+        "sha256_in_prefix": "c59a16c556bb1ff7d933826f4a9ff34b2c3bc317d11c8236e315e1b8bc547e74"
+      },
+      {
+        "_path": "Library/lib/girepository-1.0/GIRepository-3.0.typelib",
+        "path_type": "hardlink",
+        "sha256": "89d5865f66e9a52c29f901575168d6622a199c73b50c325797285203b4d7df3f",
+        "size_in_bytes": 24700,
+        "sha256_in_prefix": "89d5865f66e9a52c29f901575168d6622a199c73b50c325797285203b4d7df3f"
+      },
+      {
+        "_path": "Library/lib/girepository-1.0/GLib-2.0.typelib",
+        "path_type": "hardlink",
+        "sha256": "f4753219f7c2280aedbe27beee83ca770aed55627a9628c20c382e883df5c75a",
+        "size_in_bytes": 230108,
+        "sha256_in_prefix": "f4753219f7c2280aedbe27beee83ca770aed55627a9628c20c382e883df5c75a"
+      },
+      {
+        "_path": "Library/lib/girepository-1.0/GLibWin32-2.0.typelib",
+        "path_type": "hardlink",
+        "sha256": "d5c8522ff6dacf1b5ecff3ac5aa151fbbb237fceb662cd43abffe67ead9fbb0c",
+        "size_in_bytes": 1820,
+        "sha256_in_prefix": "d5c8522ff6dacf1b5ecff3ac5aa151fbbb237fceb662cd43abffe67ead9fbb0c"
+      },
+      {
+        "_path": "Library/lib/girepository-1.0/GModule-2.0.typelib",
+        "path_type": "hardlink",
+        "sha256": "33d632c73ca65cd541cd1014987da7075d6f61d6c344d455d36e4f27ac0bb9c1",
+        "size_in_bytes": 1908,
+        "sha256_in_prefix": "33d632c73ca65cd541cd1014987da7075d6f61d6c344d455d36e4f27ac0bb9c1"
+      },
+      {
+        "_path": "Library/lib/girepository-1.0/GObject-2.0.typelib",
+        "path_type": "hardlink",
+        "sha256": "78f2eed914fc9e2abdbdcaad513c03cca9cd0e43ef2c5e8341300175392e07e0",
+        "size_in_bytes": 66408,
+        "sha256_in_prefix": "78f2eed914fc9e2abdbdcaad513c03cca9cd0e43ef2c5e8341300175392e07e0"
+      },
+      {
+        "_path": "Library/lib/girepository-1.0/Gio-2.0.typelib",
+        "path_type": "hardlink",
+        "sha256": "c490e5438d1e6a41e600b2e247ee990f0eb3d9dbec2e2b0c57f97bdb0f837466",
+        "size_in_bytes": 359408,
+        "sha256_in_prefix": "c490e5438d1e6a41e600b2e247ee990f0eb3d9dbec2e2b0c57f97bdb0f837466"
+      },
+      {
+        "_path": "Library/lib/girepository-1.0/GioWin32-2.0.typelib",
+        "path_type": "hardlink",
+        "sha256": "ef6fcd181aaf40a3daa5b1c61d1ca8fa18042c6d392af6d65d5412916805894b",
+        "size_in_bytes": 2820,
+        "sha256_in_prefix": "ef6fcd181aaf40a3daa5b1c61d1ca8fa18042c6d392af6d65d5412916805894b"
+      },
+      {
+        "_path": "Library/lib/girepository-2.0.lib",
+        "path_type": "hardlink",
+        "sha256": "53b9f7890e3b54b70e5d28c06e5c3f47ae0a09aa7dc615df608aeb6ecf554a13",
+        "size_in_bytes": 67076,
+        "sha256_in_prefix": "53b9f7890e3b54b70e5d28c06e5c3f47ae0a09aa7dc615df608aeb6ecf554a13"
+      },
+      {
+        "_path": "Library/lib/glib-2.0.lib",
+        "path_type": "hardlink",
+        "sha256": "27cb12ad392d88a5ba4df5557a0649da62b2ef0754a4a059a5c12e19241a155e",
+        "size_in_bytes": 434508,
+        "sha256_in_prefix": "27cb12ad392d88a5ba4df5557a0649da62b2ef0754a4a059a5c12e19241a155e"
+      },
+      {
+        "_path": "Library/lib/gmodule-2.0.lib",
+        "path_type": "hardlink",
+        "sha256": "254d4ef87afcba10847c073979e9458ec12e320e5978d4a2b17f81a2e21d995c",
+        "size_in_bytes": 4270,
+        "sha256_in_prefix": "254d4ef87afcba10847c073979e9458ec12e320e5978d4a2b17f81a2e21d995c"
+      },
+      {
+        "_path": "Library/lib/gobject-2.0.lib",
+        "path_type": "hardlink",
+        "sha256": "b93a1f27cae9975f633fd50c9fd89bfac716f46bb7746fb794a749f7306ce9b6",
+        "size_in_bytes": 118862,
+        "sha256_in_prefix": "b93a1f27cae9975f633fd50c9fd89bfac716f46bb7746fb794a749f7306ce9b6"
+      },
+      {
+        "_path": "Library/lib/gthread-2.0.lib",
+        "path_type": "hardlink",
+        "sha256": "69f589989aef6c5726f4a906e009425730394b107859bea2db4da114c6a5c973",
+        "size_in_bytes": 2192,
+        "sha256_in_prefix": "69f589989aef6c5726f4a906e009425730394b107859bea2db4da114c6a5c973"
+      },
+      {
+        "_path": "Library/lib/intl.lib",
+        "path_type": "hardlink",
+        "sha256": "6ce71eac1f5a23792f9bda5403793113fe79ada75e2f240876f26eb923690b4b",
+        "size_in_bytes": 3586,
+        "sha256_in_prefix": "6ce71eac1f5a23792f9bda5403793113fe79ada75e2f240876f26eb923690b4b"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/girepository-2.0.pc",
+        "prefix_placeholder": "C:/Users/task_176849087842650/croot/glib-split_1768491571373/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "2a17d5677343c3e87405fcf2dac64be1bdb1bdf665a1e789f74218b89b2c8164",
+        "size_in_bytes": 645,
+        "sha256_in_prefix": "bbfa804963c757c2fd62bfe89f497d81413ecea658d1df98422216574adbeeb6"
+      },
+      {
+        "_path": "Library/share/gir-1.0/GIRepository-3.0.gir",
+        "path_type": "hardlink",
+        "sha256": "f6b9fc2c2b4b954f76863a03f0014c59f47b01615e65e2bb75a5e2a99b0283ce",
+        "size_in_bytes": 406082,
+        "sha256_in_prefix": "f6b9fc2c2b4b954f76863a03f0014c59f47b01615e65e2bb75a5e2a99b0283ce"
+      },
+      {
+        "_path": "Library/share/gir-1.0/GLib-2.0.gir",
+        "path_type": "hardlink",
+        "sha256": "70cc2196ae1989285eb77eb4986618cee0930f130a8cffb230198dff97836b47",
+        "size_in_bytes": 3981223,
+        "sha256_in_prefix": "70cc2196ae1989285eb77eb4986618cee0930f130a8cffb230198dff97836b47"
+      },
+      {
+        "_path": "Library/share/gir-1.0/GLibWin32-2.0.gir",
+        "path_type": "hardlink",
+        "sha256": "e22ccaa8ab839bb90c91b513139084ce2c32d599f822ced08d735359b5317f47",
+        "size_in_bytes": 8528,
+        "sha256_in_prefix": "e22ccaa8ab839bb90c91b513139084ce2c32d599f822ced08d735359b5317f47"
+      },
+      {
+        "_path": "Library/share/gir-1.0/GModule-2.0.gir",
+        "path_type": "hardlink",
+        "sha256": "bb6025e4b9e739f17dc7026fd19ced8c63179399f058d732a30aa4876b2933cd",
+        "size_in_bytes": 66261,
+        "sha256_in_prefix": "bb6025e4b9e739f17dc7026fd19ced8c63179399f058d732a30aa4876b2933cd"
+      },
+      {
+        "_path": "Library/share/gir-1.0/GObject-2.0.gir",
+        "path_type": "hardlink",
+        "sha256": "0b4c6d02442ebf77a475ad515ce9849e8632f2f90acffc9c2ef725a818ba646d",
+        "size_in_bytes": 1301019,
+        "sha256_in_prefix": "0b4c6d02442ebf77a475ad515ce9849e8632f2f90acffc9c2ef725a818ba646d"
+      },
+      {
+        "_path": "Library/share/gir-1.0/Gio-2.0.gir",
+        "path_type": "hardlink",
+        "sha256": "bb0d8648f489384e55f1691df486c90d351364d296c0793d72a06ca4504e09f5",
+        "size_in_bytes": 6135465,
+        "sha256_in_prefix": "bb0d8648f489384e55f1691df486c90d351364d296c0793d72a06ca4504e09f5"
+      },
+      {
+        "_path": "Library/share/gir-1.0/GioWin32-2.0.gir",
+        "path_type": "hardlink",
+        "sha256": "efc06c28c4b75f73fd73c24956beff4147884a12af2058e0c66677d628b9c013",
+        "size_in_bytes": 25907,
+        "sha256_in_prefix": "efc06c28c4b75f73fd73c24956beff4147884a12af2058e0c66677d628b9c013"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\cib3r\\anaconda3\\pkgs\\libglib-2.84.4-hfaec014_1",
+    "type": 1
+  }
+}
